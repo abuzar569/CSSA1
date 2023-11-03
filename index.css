@@ -1,0 +1,40 @@
+.a{
+    color: rgb(255, 1, 1);
+}
+.b{
+    color: brown;
+    font-style: italic;
+}
+.c{
+    color: rgb(177, 57, 57);
+    padding: 1%;
+}
+.d{
+    color: rgb(177, 57, 57);
+    font-style: italic;
+    text-decoration: underline;
+    padding: 1%;
+}
+#a1{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+#a2{
+    background-color: yellow;
+    font-weight: bold;
+}
+.e{
+    color: rgb(177, 57, 57);
+    letter-spacing: 0.1cm;
+}
+#a3{
+    background-color: yellow;
+}
+.f{
+    color: rgb(177, 57, 57);
+    padding-bottom: 0.4cm;
+}
+#a4{
+    color: rgb(254, 21, 21);
+    background-color: yellow;
+}
